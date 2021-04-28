@@ -1,0 +1,26 @@
+{
+    "id": "24273ADE",
+    "path": "~/Documents/starter-academic/config/_default/params.yaml",
+    "project_path": "config/_default/params.yaml",
+    "type": "yaml",
+    "hash": "3785496310",
+    "contents": "",
+    "dirty": false,
+    "created": 1619629112513.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "54,1",
+        "scrollLine": "35"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1619629296,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1619629296454,
+    "read_only": false,
+    "read_only_alternatives": []
+}
